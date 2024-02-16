@@ -1,0 +1,18 @@
+body {
+  background-color: #d0f0c0;
+}
+h1,
+p {
+  text-align: center;
+}
+.croissant-img {
+  max-width: 100%;
+  display: block;
+  margin: 30px auto;
+  border-radius: 10px;
+}
+.primary-links {
+  text-align: center;
+  margin: 0 10px;
+  color: #00a693;
+}
